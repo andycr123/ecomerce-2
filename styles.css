@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Nunito:wght@200;300&family=Open+Sans:wght@300&family=Roboto+Condensed:wght@300&family=Roboto+Mono:wght@100&display=swap');
+
+:root {
+    --clr-main: #orange ;
+    --clr-white: #ececec;
+    --clr-blue: ;
+    --clr-gray: #e2e2e2; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif
+}
+
+h1, h2, h3, h4, h5, h6, p, a ,input, textarea, ul{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
